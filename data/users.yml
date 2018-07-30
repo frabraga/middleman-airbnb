@@ -4,13 +4,5 @@
 - name: 'Juan Palma Dias'
   github_nickname: 'juanpalmadias'
   city: 'tokyo'
-- name: 'Adam'
-  github_nickname: 'sinninga'
-  city: 'montreal'
-- name: 'Ales Sinkovec'
-  github_nickname: 'alessinkovec'
-  city: 'london'
-- name: 'Eloisa Froes'
-  github_nickname: 'hiutwig'
-  city: 'new york'
+
 

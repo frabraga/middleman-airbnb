@@ -1,0 +1,24 @@
+frabraga:
+  name: "Francisco`s home"
+  owner: "frabraga"
+  description: "Charming room in the favela"
+  city_name: "Rio, Brasil"
+  city_slug: "bali"
+  wifi: false
+  rating: 2
+sinninga:
+  owner: "sinninga"
+  name: "Adam"
+  description: "Big room in Colorado"
+  city_name: "Colorado, United States"
+  city_slug: "montreal"
+  wifi: true
+  rating: 4
+alessinkovec:
+  owner: "alessinkovec"
+  name: Ales's home
+  description: "Mansion in Brussels"
+  city_name: "Brussels, Belgium"
+  city_slug: "london"
+  wifi: true
+  rating: 5
